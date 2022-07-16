@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://api.daily.dev/devcards/24bfd03f8db54d338c5e5d57eb196e17.png?r=64o
+<a href="https://app.daily.dev/cheikh_ibra"><img src="https://api.daily.dev/devcards/24bfd03f8db54d338c5e5d57eb196e17.png?r=64o" width="400" alt="Cheikh Ibra YADE's Dev Card"/></a>
